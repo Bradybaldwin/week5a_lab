@@ -1,0 +1,54 @@
+header {
+text-align: center;
+<<<<<<< HEAD
+}
+
+#todo-lists {
+    margin: 0 auto;
+    width: 80%;
+}
+
+body {
+    margin:0;
+    color: teal;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: teal;
+    color: white;
+}
+
+header a {
+    color: gold;
+    text-decoration: none;
+}
+
+h1 {
+   margin: 0;
+}
+
+#todo-lists {
+    margin: 0 auto;
+    width: 80%;
+    padding-top: 10px;
+}
+
+.list {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+}
+
+list a{
+    color: teal;
+    text-decoration: none;
+}
+
+.list-title {
+    margin-left: 20px;
+=======
+>>>>>>> bbca1316fcd9686d8a8e8fa43bafebd9f4a6210a
+}
